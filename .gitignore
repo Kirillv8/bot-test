@@ -1,0 +1,9 @@
+# Node modules: папка с установленными библиотеками
+/node_modules
+
+# Environment variables: файл с токенами и секретами
+.env
+
+# Logs and system files
+npm-debug.log*
+.DS_Store
